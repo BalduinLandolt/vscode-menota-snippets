@@ -1,7 +1,12 @@
 {
+    "publisher": "BalduinLandolt",
     "name": "menota-snippets",
     "displayName": "menota-snippets",
     "description": "Useful Code Snippets for Menota TEI XML",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BalduinLandolt/vscode-menota-snippets"
+    },
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.44.0"
