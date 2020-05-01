@@ -1,0 +1,20 @@
+{
+    "name": "menota-snippets",
+    "displayName": "menota-snippets",
+    "description": "Useful Code Snippets for Menota TEI XML",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "xml",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
