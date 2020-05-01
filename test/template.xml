@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Template XML File by Balduin Landolt, 02.04.2020. Licensed under MIT License. -->
+
+<!-- To change the level of display in the stylesheet output, change '...facs.xsl' to '...dipl.xsl' or '...norm.xsl' in the next line -->
+<?xml-stylesheet type="text/xsl" href="http://www.menota.org/menota_xslt_3_facs.xsl"?>
 
 <!DOCTYPE TEI 
 [

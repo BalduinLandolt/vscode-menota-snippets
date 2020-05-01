@@ -28,6 +28,9 @@ Adds the following snippets:
 ```XML
 <?xml version="1.0" encoding="UTF-8"?>
 
+<!-- To change the level of display in the stylesheet output, change '...facs.xsl' to '...dipl.xsl' or '...norm.xsl' in the next line -->
+<?xml-stylesheet type="text/xsl" href="http://www.menota.org/menota_xslt_3_facs.xsl"?>
+
 <!DOCTYPE TEI 
 [
 <!ENTITY % Menota_entities SYSTEM 'http://www.menota.org/menota-entities.txt'>
